@@ -31,14 +31,7 @@ The script begins by loading the input image using the Pillow library. It then p
 
 Make sure that the input image path is valid before running the script. The encryption key should be an integer within a reasonable range (0-255). Always use valid image file extensions when specifying output paths.
 
-## 📝 License
-
-This project is licensed under the MIT License. For more details, please refer to the LICENSE file.
 
 ## 👤 Author
 
-[Your Name]
-
----
-
-Feel free to modify this README with specific details about your project and add any additional information as needed!
+[Dharmpreet Singh]
